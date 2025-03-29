@@ -1,1 +1,2 @@
 # Amazon_Prime_Dashboard
+This project showcases an interactive Amazon Prime Video Sales Dashboard built using Power BI. The dashboard is designed to visualize key performance indicators (KPIs) related to Amazon Prime Video sales, such as revenue trends, subscriber growth, content performance, and more. The data is sourced from Kaggle, and this project allows stakeholders to analyze the sales dynamics of Amazon Prime Video content effectively.
